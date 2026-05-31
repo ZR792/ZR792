@@ -60,9 +60,20 @@ Published original articles on tech, productivity, and AI to an independent read
 
 ## 📊 GitHub Stats
 
-![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZR792&show_icons=true&theme=default&hide_border=true&title_color=6E473B&icon_color=A78D78&text_color=291C0E)
+<!-- 
+  INSTRUCTIONS — replace the stats images below with working ones:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZR792&layout=compact&hide_border=true&title_color=6E473B&text_color=291C0E)
+  Option 1 — Self-host github-readme-stats (most reliable):
+  Go to https://github.com/anuraghazra/github-readme-stats
+  Click "Deploy to Vercel" button, sign in with GitHub, deploy your own instance
+  Then replace the URL below with YOUR Vercel URL, keeping ?username=ZR792
+
+  Option 2 — Use this working alternative (paste as-is, works on GitHub):
+-->
+
+![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZR792&show_icons=true&theme=default&hide_border=true&title_color=6E473B&icon_color=A78D78&text_color=291C0E&bg_color=F5EDE3)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZR792&layout=compact&hide_border=true&title_color=6E473B&text_color=291C0E&bg_color=F5EDE3)
 
 ---
 
